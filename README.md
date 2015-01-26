@@ -1,2 +1,5 @@
 # gridsGalore
-Color chaning grids made with javascript/jQuery
+Color changing grids made with javascript/jQuery
+
+
+http://www.theodinproject.com
